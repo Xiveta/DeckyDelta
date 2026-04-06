@@ -1,0 +1,9 @@
+{
+  "name": "DeckyDelta",
+  "author": "Xive",
+  "version": "1.0.0",
+  "main": "dist/index.tsx",
+  "py_main": "main.py",
+  "api": { "version": 2 },
+  "flags": ["_root"]
+}
